@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "cd next && npm run dev",
     "start": "cd next && npm run start",
-    "vercel-build": "cd next && npm run build"
+    "vercel-build": "npm --prefix next run build"
   },
   "dependencies": {},
   "devDependencies": {
