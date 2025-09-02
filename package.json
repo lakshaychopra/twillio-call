@@ -4,7 +4,6 @@
   "description": "Twilio communications app (Next.js with API routes)",
   "scripts": {
     "dev": "cd next && npm run dev",
-    "build": "cd next && npm run build",
     "start": "cd next && npm run start",
     "vercel-build": "cd next && npm run build"
   },
