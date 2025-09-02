@@ -1,0 +1,9 @@
+{
+  "framework": "nextjs",
+  "env": {
+    "TWILIO_ACCOUNT_SID": "@twilio-account-sid",
+    "TWILIO_AUTH_TOKEN": "@twilio-auth-token",
+    "TWILIO_NUMBER_1": "@twilio-number-1",
+    "WEBHOOK_BASE_URL": "@webhook-base-url"
+  }
+}
