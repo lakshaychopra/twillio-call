@@ -12,7 +12,7 @@ yarn-error.log*
 .env.production.local
 
 # Build directories
-/client/build
+.next/
 /dist
 
 # Logs
@@ -45,15 +45,4 @@ Thumbs.db
 
 # Temporary files
 *.tmp
-*.temp 
-next/.next/
-next/node_modules/
-next/package-lock.json
-next/package.json
-next/tsconfig.json
-next/next.config.js
-next/app/globals.css
-next/app/page.tsx
-next/app/api/twilio/config.ts
-next/app/api/twilio/incoming-call.ts
-next/app/api/twilio/sms.ts
+*.temp
