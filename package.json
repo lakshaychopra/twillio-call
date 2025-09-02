@@ -1,0 +1,15 @@
+{
+  "name": "twilio-communications",
+  "version": "1.1.0",
+  "description": "Twilio communications app (Next.js with API routes)",
+  "scripts": {
+    "dev": "cd next && npm run dev",
+    "build": "cd next && npm run build",
+    "start": "cd next && npm run start"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": ["twilio", "call-routing", "webhook", "react"],
+  "author": "",
+  "license": "MIT"
+} 
