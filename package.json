@@ -9,7 +9,9 @@
     "vercel-build": "cd next && npm run build"
   },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "next": "14.1.0"
+  },
   "keywords": ["twilio", "call-routing", "webhook", "react"],
   "author": "",
   "license": "MIT"
